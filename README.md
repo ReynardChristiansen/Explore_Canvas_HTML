@@ -4,6 +4,8 @@
 
 "Explore Canvas HTML" is an interactive movement adventure game where players can navigate a character using the arrow keys. The game is built on HTML5 canvas and utilizes WebSocket technology for real-time multiplayer capabilities, allowing multiple users to explore the canvas simultaneously.
 
+![image alt](https://github.com/ReynardChristiansen/Explore_Canvas_HTML/blob/main/Project.png?raw=true)
+
 ## Features
 
 - **Responsive Controls**: Move your character using the arrow keys (Up, Down, Left, Right).
