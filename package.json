@@ -1,0 +1,21 @@
+{
+  "name": "spritegame",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "socket.io": "^4.8.0",
+    "spritegame": "file:"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}
